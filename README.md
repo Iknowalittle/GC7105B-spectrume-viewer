@@ -24,7 +24,9 @@ How to use?
       center freq: 947500000Hz
       span   freq: 25000000Hz
       Peak Power: -69.82 at 959.90Mhz
+  
+      Press ENTER to continue...
+  
 ![spec plot](https://user-images.githubusercontent.com/118705092/203482865-1693bded-622d-473b-8262-587cf7a7b0d4.png)
 
-      Press ENTER to continue...
-    ![peak power](https://user-images.githubusercontent.com/118705092/203482877-279d652a-b4aa-48b6-b02b-08b97e540ddc.png)
+![peak power](https://user-images.githubusercontent.com/118705092/203482877-279d652a-b4aa-48b6-b02b-08b97e540ddc.png)
