@@ -1,4 +1,4 @@
-# GC7105B-spectrume-viewer<br>
+# GC7105B-spectrum-viewer<br>
 
 What does it do?<br>
   a simple tool that allow you to get GC7105B spectrum measurement data remotely<br>
